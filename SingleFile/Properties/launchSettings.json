@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SingleFile": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\keerati.s sharepoint.com C:\\keerati.s\\test.docx"
+    }
+  }
+}
